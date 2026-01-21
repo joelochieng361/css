@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: black;
+    text-size-adjust: 23px;
+    word-spacing: 20px;
+    font-weight: 800;
+    letter-spacing: 12px;
+    text-transform: capitalize ;
+
+}
+body{
+    text-align: center;
+    background-color: rgb(237, 135, 98);
+}
+h3{
+    text-align: left;
+    color: aliceblue;
+    border-top: 10px red double;
+    border-right: 6px rgb(98, 235, 70) solid;
+    border-bottom: 6px rgb(34, 164, 51) solid;
+    border-left: 6px rgb(33, 33, 149) solid;
+    background-color: brown;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    padding-left: 35px;
+    padding-right: 40px;
+    margin-left: 35px;
+    margin-right: 170px;
+}
+a{
+    text-align: end;
+    border: 0px;
+    background-color: red;
+    text-decoration: none;
+    font-size: 16px;
+    color: aliceblue;
+    padding: 6px;
+    margin-left: 10px;
+
+}
+
+a:hover{
+    background-color: orange;
+    color: black;
+}
