@@ -1,0 +1,21 @@
+#divv1{
+    background-color: black;
+    height: 100px;
+}
+#divv2{
+    background-color: red;
+    height: 100px;
+}
+#divv3{
+    background-color: green;
+    height: 100px;
+}
+.Edivv1{
+    background-color: white;
+    height: 20px;
+}
+#divv4{
+    height: 10px;
+    position: relative;
+    left: 550px; 
+}
